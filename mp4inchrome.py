@@ -1,7 +1,7 @@
 import webbrowser
 
 author = "Jencent Dizon"
-link = "https:github.com/I-am-Programmer-101"
+link = "https://github.com/I-am-Programmer-101"
 print("Author:", author, "Link:",link)
 
 def movieinchrome():
