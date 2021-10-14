@@ -1,5 +1,9 @@
 import webbrowser
 
+author = "Jencent Dizon"
+link = "https:github.com/I-am-Programmer-101"
+print("Author:", author, "Link:",link)
+
 def movieinchrome():
     chromedir= 'C:/Program Files/Microsoft/Edge/Application/msedge.exe %s'
     mp4file = input("mp4 file: ")
